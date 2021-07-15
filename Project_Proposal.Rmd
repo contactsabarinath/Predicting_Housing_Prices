@@ -11,6 +11,8 @@ output:
     highlight: tango
     theme: flatly
     toc: yes
+  md_document:
+    variant: markdown_github
 urlcolor: cyan
 
 ---
