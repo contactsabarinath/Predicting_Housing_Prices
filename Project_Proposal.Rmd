@@ -3,18 +3,17 @@ title: "Predicting Housing Prices - Project Proposal"
 author: "Sabarinath Suriyamurthy (ss120) , Sudha Natarajan (Sudha2), Raghav Rama (RR26)"
 date: "7/6/2021"
 output:
-  pdf_document:
-    fig_caption: yes
-    highlight: tango
-    toc: yes
+  md_document:
+    variant: markdown_github
   html_document:
     highlight: tango
     theme: flatly
     toc: yes
-  md_document:
-    variant: markdown_github
+  pdf_document:
+    fig_caption: yes
+    highlight: tango
+    toc: yes
 urlcolor: cyan
-
 ---
 
 ## Introduction
