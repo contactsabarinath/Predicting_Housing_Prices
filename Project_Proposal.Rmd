@@ -1,6 +1,6 @@
 ---
 title: "Predicting Housing Prices - Project Proposal"
-author: "Sabarinath Suriyamurthy (ss120) , Sudha Natarajan (Sudha2), Raghav Rama (RR26)"
+author: "Raghav Rama (RR26), Sabarinath Suriyamurthy (ss120), Sudha Natarajan (Sudha2) "
 date: "7/6/2021"
 output:
   md_document:
@@ -20,10 +20,10 @@ urlcolor: cyan
 
 We propose to create a linear model that can predict residential home prices in Melbourne (Australia) based on several explanatory variables. This project is a practical example of using real world data that consists of a mix of different data types - nominal, ordinal, discrete, and continuous variables.
 
-Our final project will incorporate the following topics covered in STAT420 Course:
+Our final project will implement following phases:
 
   - Data cleansing
-  - Variable manipulation
+  - Variable Transformation
   - Outlier identification
   - Data analysis and interpretation
   - Model building
@@ -64,7 +64,7 @@ The raw dataset contains **34857** observations and **21** variables ( X predict
 - **BuildingArea**: Building Size
 - **CouncilArea**: Governing council for the area
 
-### Requested Criteria 
+### Required Criteria 
 
 - A minimum 2000 observations
 - At least 10 variables
@@ -74,7 +74,7 @@ The raw dataset contains **34857** observations and **21** variables ( X predict
 
 ## Motivation
 
-- Hands on experince with real life datasets.
+- Hands on experience with real life datasets.
 - Practice with all techniques learnt in STAT420 course.
 - Discover how applied statistics can help us answer Housing price prediction.
 
